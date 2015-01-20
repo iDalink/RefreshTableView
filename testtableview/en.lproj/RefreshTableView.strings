@@ -1,0 +1,11 @@
+/* 
+  RefreshTableView.strings
+  testtableview
+
+  Created by liuyu on 15-1-12.
+  Copyright (c) 2015年 liuyu. All rights reserved.
+*/
+
+"HEADER_TITLE"="Is Refreshing";
+
+"FOOTER_TITLE"="Is Loading";
